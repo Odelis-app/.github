@@ -64,7 +64,7 @@ Contributions, suggestions, and constructive feedback are welcome.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes. Use issues to report bugs or suggest improvements, and pull requests to propose changes.
+Please read [CONTRIBUTING.md](https://github.com/Odelis-app/odelis/blob/main/CONTRIBUTING.md) before submitting changes. Use issues to report bugs or suggest improvements, and pull requests to propose changes.
 
 ## License
 

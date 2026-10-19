@@ -68,7 +68,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes. Use is
 
 ## License
 
-See [NOTICE.md](NOTICE.md) for project notices and licensing information.
+See [NOTICE.md](https://github.com/Odelis-app/odelis/blob/main/NOTICE.md) for project notices and licensing information.
 
 ---
 
